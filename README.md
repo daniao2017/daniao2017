@@ -16,7 +16,7 @@
 ### 学校时期
 
 * [ROS_CAR](https://github.com/daniao2017/ROS_Car)🔥：博主19年申请的市级创新项目, 基于ROS做的智能配送小车
-* [语音交互机器人](https://github.com/daniao2017/voice_robot) 一款语音交互的机器人
+* [语音交互机器人](https://github.com/daniao2017/voice_robot)：一款语音交互的机器人
 
 
 ### 创业公司任职时期 
