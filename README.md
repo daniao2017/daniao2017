@@ -26,6 +26,9 @@
 * xxxx 行泊一体控制器
 * xx 前视单目摄像头
 
+![职业历程](https://github.com/daniao2017/doc/blob/master/3_%E5%85%B3%E6%B3%A8%E4%BA%8B%E9%A1%B9/_asserts/%E8%81%8C%E4%B8%9A%E5%8E%86%E7%A8%8B.jpg)
+
+
 ### 上市公司任职
 
 还在持续奋进ing
