@@ -2,7 +2,6 @@
 
 大家好，我是小刘同学，一名深耕车载软件领域多年的研发工程师。
 
-[![Visits Badge](https://badges.pufler.dev/visits/YourUsername/daniao2017?style=flat-square)](https://github.com/daniao2017)
 [![GitHub followers](https://img.shields.io/github/followers/daniao2017?style=social)](https://github.com/daniao2017?tab=followers)
 ![工作年限](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/daniao2017/doc/refs/heads/master/time.json)
 
