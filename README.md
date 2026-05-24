@@ -20,20 +20,21 @@
 
 ### 创业公司任职时期 
 练习时长3年半🤭，深度完整经历多个车厂的量厂项目。
-* xxxx 1V1R 前视一体机
-* xxxx 前视一体机
-* xxxx 行泊一体控制器
-* xx 前视单目摄像头
+* 北汽重卡 1V1R 前视一体机
+* 吉利商用车 前视一体机
+* 合创V09 行泊一体控制器
+* 宇通轻客 前视单目摄像头
 
 ![职业历程](https://github.com/daniao2017/doc/blob/master/3_%E5%85%B3%E6%B3%A8%E4%BA%8B%E9%A1%B9/_asserts/%E8%81%8C%E4%B8%9A%E5%8E%86%E7%A8%8B.jpg)
 
 
 ### 上市公司任职
 
-* 地平线J6 智驾控制器, BSP开发
-* MI Robot SM8650 ,BSP开发/性能优化
-* 英伟达Thor U ,BSP开发/OTA 开发
+* 地平线J6 智驾控制器, BSP开发/网卡开发
+* MI Robot SM8650, BSP开发/性能优化
+* 英伟达Thor U, BSP开发/OTA 开发
 
+![HQ_职业历程](https://github.com/daniao2017/doc/blob/12cad429d4b4fbc0e2a51c1e00e857433ae69126/3_%E5%85%B3%E6%B3%A8%E4%BA%8B%E9%A1%B9/_asserts/HQ_%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86.jpg)
 
 <!--
 **daniao2017/daniao2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
